@@ -1,0 +1,20 @@
+# === Python 编译临时文件 ===
+__pycache__/
+*.pyc
+
+# === 数据文件（可由脚本重建） ===
+train_ctr_samples.csv
+video_embeddings.npy
+video_embeddings.faiss
+video_id_map.txt
+ctr_mlp_model.pt
+
+# === 下载的 YouTube8M 资源（超大） ===
+frame_level/
+video_level/
+
+# === Mac 系统文件 ===
+.DS_Store
+
+# === 环境变量文件 ===
+.env

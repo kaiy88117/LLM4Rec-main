@@ -1,0 +1,62 @@
+{
+  "user_1": {
+    "watched_videos": [
+      "vid_178",
+      "vid_060",
+      "vid_103"
+    ],
+    "preferred_tags": [
+      "football",
+      "diy",
+      "tech"
+    ]
+  },
+  "user_2": {
+    "watched_videos": [
+      "vid_190",
+      "vid_037",
+      "vid_127"
+    ],
+    "preferred_tags": [
+      "decor",
+      "paris",
+      "travel"
+    ]
+  },
+  "user_3": {
+    "watched_videos": [
+      "vid_016",
+      "vid_026",
+      "vid_038"
+    ],
+    "preferred_tags": [
+      "home",
+      "fitness",
+      "yoga"
+    ]
+  },
+  "user_4": {
+    "watched_videos": [
+      "vid_076",
+      "vid_122",
+      "vid_140"
+    ],
+    "preferred_tags": [
+      "review",
+      "compilation",
+      "cat"
+    ]
+  },
+  "user_5": {
+    "watched_videos": [
+      "vid_060",
+      "vid_034",
+      "vid_017"
+    ],
+    "preferred_tags": [
+      "baking",
+      "home",
+      "fails"
+    ]
+  }
+}
