@@ -18,3 +18,4 @@ video_level/
 
 # === 环境变量文件 ===
 .env
+data/ml-1m/
