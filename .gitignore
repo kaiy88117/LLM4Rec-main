@@ -8,6 +8,8 @@ video_embeddings.npy
 video_embeddings.faiss
 video_id_map.txt
 ctr_mlp_model.pt
+data/processed/
+models/
 
 # === 下载的 YouTube8M 资源（超大） ===
 frame_level/
